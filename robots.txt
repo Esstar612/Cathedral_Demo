@@ -1,0 +1,5 @@
+# This is a design prototype for a class project, not the Cathedral of All
+# Saints' real website. Its pages carry the parish's name and a mock donation
+# flow, so they stay out of search results where they could be mistaken for it.
+User-agent: *
+Disallow: /
